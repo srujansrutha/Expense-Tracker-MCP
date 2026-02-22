@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "name": "Food & Dining",
+      "subcategories": ["Groceries", "Restaurants", "Coffee Shops"]
+    },
+    {
+      "name": "Transportation",
+      "subcategories": ["Gas", "Public Transit", "Parking", "Ride Share"]
+    },
+    {
+      "name": "Shopping",
+      "subcategories": ["Clothing", "Electronics", "Home Goods"]
+    },
+    {
+      "name": "Entertainment",
+      "subcategories": ["Movies", "Concerts", "Streaming Services"]
+    },
+    {
+      "name": "Bills & Utilities",
+      "subcategories": ["Electricity", "Water", "Internet", "Phone"]
+    }
+  ]
+}
